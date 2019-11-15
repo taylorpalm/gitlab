@@ -1,6 +1,7 @@
 public class Hello{
 	public static void main(String argv[])
 	{
+		//Comment
 
 		//Default is "World"
 
